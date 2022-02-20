@@ -1,4 +1,4 @@
-# APLIKASI-TENDOR-KOMPUTER-PROYEK-AKHIR-PBO-
+# APLIKASI-TENDOR-KOMPUTER
 
 Aplikasi ini merupakan proyek akhir mata kuliah PBO (Pemrograman Berorientasi Objek).
 Disini kami membuat aplikasi ini karena terinspirasi dari website enterkomputer.
